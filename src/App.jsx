@@ -97,7 +97,7 @@ function App() {
                 setValueSi(true)
 
                 jsConfetti.addConfetti({
-                  emojis: ['😍', '🥰', '❤️', '😃','😼','💚'],
+                  emojis: ['😍', '🤪', '❤️', '😃','😼','💚','🍫'],
                   emojiSize: 70,
                   confettiNumber: 80,
                 })
