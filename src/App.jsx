@@ -65,7 +65,7 @@ function App() {
   },
   {
     id: 10,
-    description: ""Al menos dame un perr..." ¡Di que siuu!",
+    description: "Al menos dame un perr... ¡Di que siuu!",
     img: "https://media.tenor.com/I7KdFaMzUq4AAAAi/peach-goma.gif"
   }]
 
